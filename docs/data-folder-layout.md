@@ -16,7 +16,7 @@
      
      - Deploy: After updates have been signed, they'll be staged here. The version meta data and public keys will also be staged here for upload.
      
-     - Files: Most recent update of each app/lib is place here. Will be used as a base to crate a patch on the next build.
+     - Files: Most recent update of each app/lib is place here. Will be used as a base to create a patch on the next build.
 
 
 ```
